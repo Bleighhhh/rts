@@ -33,3 +33,6 @@ ARCHITECTURE:
 
 MAIN LOOP / GAME LOGIC -> DEVICE API (GRAPHIC, SOUND AND VISION INPUT ENGINE) -> GAME; I/0 DEVICE (DISPLAY, SPEAKER, CAMERA) -> PLAYER -> vISION INPUT ENGINE
 
+COURSE PLAN:
+
+build "strategizer" first; which essentially the game logic without too much on the graphic and lore side
