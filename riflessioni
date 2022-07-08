@@ -1,3 +1,7 @@
+DECISIONI DA PRENDERE:
+1. meccanica
+2. motore grafico: (pixel art? 2d? (cambia qualcosa?) o 3d leggero?
+3. che tool mi servono 
 due strade: 
 
 1. un vero tipo specifico di focus nel playstyle:
@@ -23,4 +27,9 @@ Perchè queste civiltà si fanno la guerra? non lo so
 comunque quando si muore -> sei condannato alla rinascita (o si chiede quale strada si prenderà)
 
 sarebbe figo introdurre il concetto che se si è aztecz, per esempio, si ha il giaguaro a dispozione ma l'avversario ha come midboss poi quetzalcoatl o simile; mentre se loro prendono i buddhisti tibetano, allora poi hanno com minion extra altri sgravati, ma combattono contro il midboss tibetano per dire. questo è molto figo, perchè ognuno combatte contro se stesso per raggiungere l'illuminazione. e ci mettiamo in qualche modo l'easter egg sull'illuminazione 
+
+
+ARCHITECTURE:
+
+MAIN LOOP / GAME LOGIC -> DEVICE API (GRAPHIC, SOUND AND VISION INPUT ENGINE) -> GAME; I/0 DEVICE (DISPLAY, SPEAKER, CAMERA) -> PLAYER -> vISION INPUT ENGINE
 
